@@ -17,7 +17,7 @@ namespace RegLoginApp.Views
             InitializeComponent();
         }
 
-        async private void Logout_Clicked(object sender, EventArgs e)
+        async private void Logout_Handler(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new LoginPage());
         }

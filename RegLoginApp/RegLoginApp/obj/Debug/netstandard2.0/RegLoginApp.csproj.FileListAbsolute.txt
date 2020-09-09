@@ -13,3 +13,5 @@ C:\Users\jusamano\source\repos\RegLoginApp\RegLoginApp\RegLoginApp\obj\Debug\net
 C:\Users\jusamano\source\repos\RegLoginApp\RegLoginApp\RegLoginApp\obj\Debug\netstandard2.0\RegLoginApp.dll
 C:\Users\jusamano\source\repos\RegLoginApp\RegLoginApp\RegLoginApp\obj\Debug\netstandard2.0\ref\RegLoginApp.dll
 C:\Users\jusamano\source\repos\RegLoginApp\RegLoginApp\RegLoginApp\obj\Debug\netstandard2.0\RegLoginApp.pdb
+C:\Users\jusamano\source\repos\RegLoginApp\RegLoginApp\RegLoginApp\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\jusamano\source\repos\RegLoginApp\RegLoginApp\RegLoginApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
