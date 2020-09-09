@@ -5,7 +5,7 @@
     <ContentPage.Content>
         <ScrollView>
             <StackLayout>
-                <Grid VerticalOptions="CenterAndExpand">
+                <Grid VerticalOptions="CenterAndExpand" Margin="20" RowSpacing="20">
                     <Grid.RowDefinitions>
                         <RowDefinition/>
                         <RowDefinition/>

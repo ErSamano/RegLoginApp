@@ -136,4 +136,7 @@
       <Name>RegLoginApp</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\drfeed.png" />
+  </ItemGroup>
 </Project>

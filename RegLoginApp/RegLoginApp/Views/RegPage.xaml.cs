@@ -17,6 +17,7 @@ namespace RegLoginApp.Views
     {
         public RegPage()
         {
+            SetValue(NavigationPage.HasNavigationBarProperty, false); //Removes the navigation bar at the top of the page
             InitializeComponent();
         }
 

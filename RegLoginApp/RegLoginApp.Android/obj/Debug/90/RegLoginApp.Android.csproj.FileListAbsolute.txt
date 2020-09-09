@@ -471,3 +471,4 @@ C:\Users\jusamano\source\repos\RegLoginApp\RegLoginApp\RegLoginApp.Android\obj\D
 C:\Users\jusamano\source\repos\RegLoginApp\RegLoginApp\RegLoginApp.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\jusamano\source\repos\RegLoginApp\RegLoginApp\RegLoginApp.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\jusamano\source\repos\RegLoginApp\RegLoginApp\RegLoginApp.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\jusamano\source\repos\RegLoginApp\RegLoginApp\RegLoginApp.Android\obj\Debug\90\res\drawable\drfeed.png

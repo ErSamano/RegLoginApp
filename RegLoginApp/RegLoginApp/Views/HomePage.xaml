@@ -3,7 +3,12 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="RegLoginApp.Views.HomePage">
     <ContentPage.Content>
-        <!--Creating a button to Log out-->
-        <Button Text="Logout" TextColor="White" BackgroundColor="DeepSkyBlue" Clicked="Logout_Handler"/>
+
+        <StackLayout Orientation="Vertical">
+            <Image VerticalOptions="CenterAndExpand" Source="drfeed.png"/>
+            <!--Creating a button to Log out-->
+            <Button VerticalOptions="EndAndExpand" Text="Logout" TextColor="White" BackgroundColor="DeepSkyBlue" Clicked="Logout_Handler"/>
+
+        </StackLayout>
     </ContentPage.Content>
 </ContentPage>
