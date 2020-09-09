@@ -1,0 +1,8 @@
+C:\Users\jusamano\source\repos\RegLoginApp\RegLoginApp\RegLoginApp\bin\Debug\netstandard2.0\RegLoginApp.deps.json
+C:\Users\jusamano\source\repos\RegLoginApp\RegLoginApp\RegLoginApp\bin\Debug\netstandard2.0\RegLoginApp.dll
+C:\Users\jusamano\source\repos\RegLoginApp\RegLoginApp\RegLoginApp\obj\Debug\netstandard2.0\RegLoginApp.csprojAssemblyReference.cache
+C:\Users\jusamano\source\repos\RegLoginApp\RegLoginApp\RegLoginApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jusamano\source\repos\RegLoginApp\RegLoginApp\RegLoginApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jusamano\source\repos\RegLoginApp\RegLoginApp\RegLoginApp\obj\Debug\netstandard2.0\Views\RegPage.xaml.g.cs
+C:\Users\jusamano\source\repos\RegLoginApp\RegLoginApp\RegLoginApp\obj\Debug\netstandard2.0\RegLoginApp.AssemblyInfoInputs.cache
+C:\Users\jusamano\source\repos\RegLoginApp\RegLoginApp\RegLoginApp\obj\Debug\netstandard2.0\RegLoginApp.AssemblyInfo.cs
