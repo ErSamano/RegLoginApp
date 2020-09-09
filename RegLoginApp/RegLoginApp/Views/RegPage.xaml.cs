@@ -42,6 +42,11 @@ namespace RegLoginApp.Views
             Device.BeginInvokeOnMainThread(async () =>
             {
                 var result = await this.DisplayAlert("Congratulations", "User Registration Sucessfull", "Yes", "Cancel");
+
+                //If the Registration was successfull, redirect the user to the login page
+                if (result)
+                    await Navigation.PushAsync(new LoginPage());
+
             });
         }
     }
